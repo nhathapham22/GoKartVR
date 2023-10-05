@@ -1,0 +1,2 @@
+Using template 'D:/Sask Fall 2022/Proj Management/Hub/2021.3.22f1/Editor/Data/PlaybackEngines/AndroidPlayer\Apk\LauncherManifest.xml'
+

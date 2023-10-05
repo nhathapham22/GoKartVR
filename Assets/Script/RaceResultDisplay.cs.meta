@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3421e67e9384af6438bf4ae85fbf8ef7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - raceTimeText: {fileID: 9190170113012410635, guid: 9a4c5171e3a904642966cd199a132d99, type: 3}
+  - lapTimeText: {fileID: 449449810266660344, guid: 770ac946404340e41a5534a3eb897cd2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
