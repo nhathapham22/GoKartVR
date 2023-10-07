@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1706.6667
     height: 869.3334
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 17
+  controlID: 39
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 110
+  controlID: 50
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -311,7 +311,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: cce1feff
+      m_ExpandedIDs: 2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -427,14 +427,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: D:\C# .Net App\GoKartVR\GoKartVR
+  m_LastProjectPath: D:\C# .Net App\GoKartVR
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 24190200
-    m_LastClickedID: 137508
-    m_ExpandedIDs: 00000000dc180200de180200e0180200e2180200e4180200e6180200e8180200ea180200ec180200ee180200f0180200f2180200f4180200f6180200f8180200fa180200fc180200fe180200001902000219020004190200061902000819020000ca9a3b
+    m_SelectedIDs: e28f0000
+    m_LastClickedID: 36834
+    m_ExpandedIDs: 00000000868f0000888f00008a8f00008c8f00008e8f0000908f0000928f0000948f0000968f0000988f00009a8f00009c8f00009e8f0000a08f0000a28f0000a48f0000a68f0000a88f0000aa8f0000ac8f0000ae8f0000b08f0000b28f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -462,7 +462,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000dc180200de180200e0180200e2180200e4180200e6180200e8180200ea180200ec180200ee180200f0180200f2180200f4180200f6180200f8180200fa180200fc180200fe1802000019020002190200041902000619020008190200
+    m_ExpandedIDs: 00000000868f0000888f00008a8f00008c8f00008e8f0000908f0000928f0000948f0000968f0000988f00009a8f00009c8f00009e8f0000a08f0000a28f0000a48f0000a68f0000a88f0000aa8f0000ac8f0000ae8f0000b08f0000b28f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -517,7 +517,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 50
+  m_DirectoriesAreaWidth: 215
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -828,7 +828,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.36326918, y: 0.13543889, z: -0.053323742, w: -0.9207185}
     speed: 2
-    m_Value: {x: -0.36326918, y: 0.13543889, z: -0.053323742, w: -0.92071843}
+    m_Value: {x: -0.36311048, y: 0.13537973, z: -0.053300448, w: -0.9203163}
   m_Size:
     m_Target: 65.3973
     speed: 2
