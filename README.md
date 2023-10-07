@@ -6,7 +6,10 @@
 <div align="center"> 
  <h3 align="center">LED SPEEDWAYS</h3>
 </div>
-![Cafe Management System](https://github.com/nhathapham22/GoKartVR/blob/main/img/Led%20Speedways.png)
+<div align="center">
+  <img src="https://github.com/nhathapham22/GoKartVR/blob/main/img/Led%20Speedways.png" alt="LED SPEEDWAYS" width="300" height="300">
+</div>
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -40,24 +43,26 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+### Project Overview
 
+Welcome to our VR GoKart Project Called LED SPEEDWAYS! This initiative is a collaborative student capstone project undertaken in partnership with the CNIB Foundation. Our primary goal is to create an immersive and inclusive gaming experience for children with vision impairment. Through the use of virtual reality (VR) technology, we aim to provide an engaging platform that transcends traditional boundaries, allowing every child to enjoy the thrill of a virtual GoKart ride.
 
-![Cafe Management System](https://github.com/nhathapham22/CafeMS/blob/main/images/program.png?raw=true)
+### Purpose and Impact
 
-This project is a cafe management system designed to streamline the operations of a cafe, including order management, cost calculation, and receipt generation.
-
-
+The driving force behind our project is the desire to bring joy, entertainment, and a sense of empowerment to children who face challenges related to vision. By leveraging VR technology, we not only aim to entertain but also to foster a supportive and inclusive environment that promotes accessibility in gaming.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-This project was built with:
-* [.NET](https://dotnet.microsoft.com/)
+Our VR GoKart Project is crafted using a combination of innovative technologies and development tools. We are proud to highlight the following key components:
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+* [Unity](https://www.unity.com/)
+
+Explore the sections below to learn more about getting started, installation instructions, and how you can contribute to making this project even more impactful!
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -69,38 +74,59 @@ To get started with the Cafe Management System, follow these steps:
 
 1. Clone the repository to your local machine.
    ```sh
-   git clone https://github.com/nhathapham22/CafeMS.git
+   git clone https://github.com/nhathapham22/GoKartVR.git
    ```
-2. Open the solution file in your preferred Integrated Development Environment (IDE).
+2. Install Unity Hub, Unity Editor & MS Visual Studio 2022
+3. Open the project you have just copied.
+4. You may also need to add some plugins for VR development in Unity.
+5. You can play the game with you keyboard and monitor, but the best way is to connect the Meta Quest VR Headset from Meta to your computer.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Portable Program
-If you want to run the program directly, please go to the folder of the project: 
-CafeMS\bin\Release\net5.0-windows and then click on CafeMS.exe to run the file.
-
-
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Once the project is set up, you can use the system to manage orders, calculate costs, and generate receipts. Adjust the quantity of each item using the provided checkboxes and text fields, then click the "Total" button to calculate the cost.
+Get ready to experience the joy of our VR GoKart Project! Follow these instructions to make the most of the immersive gaming experience:
+
+### Starting the Application
+You can start the app using Unity Editor. Remember to connect the VR headset to your computer first.
+Another way is to install the set-up file directly to the VR Headset and enjoy the game. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Ingame 
+The game starts with 4 menu options:
 
+<br>
+<img src="https://github.com/nhathapham22/GoKartVR/blob/main/img/Ingame%20Photo%201.png" alt="LED SPEEDWAYS" width="500" height="300" >
+<br>
 
+This is the settings:
+<br>
+<img src="https://github.com/nhathapham22/GoKartVR/blob/main/img/Ingame%20Photo%202.png" alt="LED SPEEDWAYS" width="500" height="300" >
+<br>
+
+The game will look like this:
+<br>
+<img src="https://github.com/nhathapham22/GoKartVR/blob/main/img/Ingame%20Photo%203.png" alt="LED SPEEDWAYS" width="500" height="300" >
+
+There will be 3 maps for the whole game. For each map, you will have to finish 3 laps.
 <!-- ROADMAP -->
 ## Roadmap
 
 The following features and improvements are planned for future releases:
 
-* Enhanced user interface
-* Integration with external payment systems
-* Customer loyalty program
+1. **Expansion of Maps:**
+   - Create more diverse and engaging maps to enhance the gaming experience for our players.
+
+2. **Multiplayer Mode:**
+   - Introduce a multiplayer mode, allowing users to connect and compete with friends in the virtual GoKart world.
+
+3. **Enhanced Accessibility Options:**
+   - Implement additional accessibility features to ensure an inclusive experience for a broader audience.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -120,13 +146,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- CONTACT -->
 ## Contact
 
 For any inquiries, please contact Johnny Pham at nhatha22@gmail.com.
 
-Project Link: https://github.com/nhathapham22/CafeMS
+Project Link: https://github.com/nhathapham22/GoKartVR
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,9 +162,10 @@ Project Link: https://github.com/nhathapham22/CafeMS
 
 Special thanks to:
 
-* [.NET](https://dotnet.microsoft.com/)
+* [Unity](https://unity.com/)
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-* [Code Project](https://code-projects.org/)
+* [The CNIB Foundation](https://cnib.ca/)
+* [Saskatchewan Polytechnic](https://saskpolytech.ca/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
