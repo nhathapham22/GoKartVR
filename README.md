@@ -19,6 +19,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#project-overview">Project Overview</a></li>
+        <li><a href="#purpose-and-impact">Purpose and Impact</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -26,10 +28,15 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#exefile">Portable Program</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li>
+      <a href="#usage">Usage</a>
+      <ul>
+        <li><a href="#start-the-application">Start the Application</a></li>
+        <li><a href="#in-game">In-game</a></li>
+      </ul>
+    </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -78,8 +85,8 @@ To get started with the Cafe Management System, follow these steps:
    ```
 2. Install Unity Hub, Unity Editor & MS Visual Studio 2022
 3. Open the project you have just copied.
-4. You may also need to add some plugins for VR development in Unity.
-5. You can play the game with you keyboard and monitor, but the best way is to connect the Meta Quest VR Headset from Meta to your computer.
+4. You also need to add plugins for VR development in Unity.
+5. You can play the game with your keyboard and monitor, but the best way is to connect the Meta Quest VR Headset from Meta to your computer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,13 +96,13 @@ To get started with the Cafe Management System, follow these steps:
 
 Get ready to experience the joy of our VR GoKart Project! Follow these instructions to make the most of the immersive gaming experience:
 
-### Starting the Application
+### Start the Application
 You can start the app using Unity Editor. Remember to connect the VR headset to your computer first.
 Another way is to install the set-up file directly to the VR Headset and enjoy the game. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Ingame 
+### In-game 
 The game starts with 4 menu options:
 
 <br>
@@ -154,7 +161,6 @@ For any inquiries, please contact Johnny Pham at nhatha22@gmail.com.
 Project Link: https://github.com/nhathapham22/GoKartVR
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
